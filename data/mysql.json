@@ -659,6 +659,15 @@
                 },
                 {
                     "code": "STRCMP"
+                },
+                {
+                    "code": "JOIN / INNER JOIN"
+                },
+                {
+                    "code": "LEFT JOIN"
+                },
+                {
+                    "code": "RIGHT JOIN"
                 }
             ]
         }
